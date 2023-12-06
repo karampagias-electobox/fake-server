@@ -15,7 +15,7 @@
     "issuing_authority" : "ΑΘΗΝΩΝ",
     "expiration_date" : "08/12/2046",
     "tax_identification_number" : "*********",
-    "observations" : "00100, 17100"
+    "observations" : "00100, 17100",
     "categories" : [
       {
         "category_code": "B",
