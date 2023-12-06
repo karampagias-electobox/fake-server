@@ -4,7 +4,7 @@
     "last_name" : "ΠΑΠΑΔΟΠΟΥΛΟΣ",
     "tax_identification_number" : "*********" 
   },
-  "drivers-license" {
+  "drivers-license" : {
     "license_number": "01993458",
     "valid_until" : "31/05/2041",
     "last_name" : "ΠΑΠΑΔΟΠΟΥΛΟΣ",
@@ -41,7 +41,7 @@
       "ticket_number" : "3457",
       "driving_license_revocation_notice_number" : "1",
       "lapse" : "-"
-    },
+    }
     ],
   "revocations" : [
     {
