@@ -52,16 +52,13 @@
       "duration_in_months" : "6"
     }
   ],
-  "driver_details": {
+  "summary" : {
     "first_name" : "ΠΕΤΡΟΣ",
-    "last_name" : "",
     "last_name" : "ΠΑΠΑΔΟΠΟΥΛΟΣ",
     "date_of_birth" : "31/05/1976",
     "license": "-",
     "tax_identification_number" : "*********",
-    "is_valid": "ναι"
-  },
-  "document" : {
+    "is_valid": "Ναι",
     "qr_code" : "RNjV_MAofRXOPTN7XtIRSA",
     "validation_code" : "VwPkB9nu5wxevDLqOs73Eg",
     "status" : "Το έγγραφο εκδόθηκε",
