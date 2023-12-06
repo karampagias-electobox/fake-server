@@ -1,0 +1,55 @@
+{
+  "user":{
+    "first_name" : "ΠΕΤΡΟΣ",
+    "last_name" : "ΠΑΠΑΔΟΠΟΥΛΟΣ",
+    "tax_identification_number" : "*********" 
+  },
+  "drivers-license" {
+    "license_number": "01993458",
+    "valid_until" : "31/05/2041",
+    "last_name" : "ΠΑΠΑΔΟΠΟΥΛΟΣ",
+    "first_name" : "ΠΕΤΡΟΣ",
+    "date_of_birth" : "31/05/1976",
+    "birth_place" : "ΑΘΗΝΑ ΑΤΤΙΚΗΣ",
+    "date_of_issue" : "08/12/2046",
+    "issuing_authority" : "ΑΘΗΝΩΝ",
+    "expiration_date" : "08/12/2046",
+    "tax_identification_number" : "*********",
+    "observations" : "00100, 17100"
+    "categories" : [
+      {
+        "category_code": "B",
+        "category_issue_date" : "08/12/2000",
+        "category_expiration_date" : "08/12/2046",
+        "category_codes" : "-"
+      },
+      {
+        "category_code": "A",
+        "category_issue_date" : "08/12/2000",
+        "category_expiration_date" : "08/12/2046",
+        "category_codes" : "-"
+      }
+    ]
+  },
+  "violations" : [
+    {
+      "entity_that_certified_violation" : "ΑΤ Αμαρουσίου",
+      "date_and_time_of_violation_recording" : "3/8/2023",
+      "violation_code_and_description" : "E.01",
+      "penalty_points" : "5",
+      "offending_vehicle_registration_number" : "ΙΑΒ 4545",
+      "ticket_number" : "3457",
+      "driving_license_revocation_notice_number" : "1",
+      "lapse" : "-"
+    },
+    ],
+  "revocations" : [
+    {
+      "license_revocation_notice_number" : "2520",
+      "revocation_date_of_issue" : "3/8/2023",
+      "date_of_license_withdrawal" : "-",
+      "date_of_reassignment" : "3/4/2024",
+      "duration_in_months" : "6"
+    }
+  ]
+}
