@@ -18,6 +18,7 @@
     "observations" : "00100, 17100",
     "categories" : [
       {
+        "id":1,
         "category_code": "B",
         "category_issue_date" : "08/12/2000",
         "category_expiration_date" : "08/12/2046",
